@@ -33,6 +33,21 @@ The user just needs to:
 
 - Programming Language: C++
 - IDE: Visual Studio Code 
-- Platform: Terminal 
+- Platform: Terminal
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```
+   git clone https://github.com/Nadeemsaba/SCT_SD_01.git
+   ```
+2. Compile the code:
+   ```
+   g++ temperature_converter.cpp -o temperature_converter
+   ```
+3. Run the program:
+   ```
+   ./temperature_converter
+   ```
 
 
