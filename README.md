@@ -31,7 +31,7 @@ The user just needs to:
 
 ## 🧰 Tools & Languages Used
 
-- Programming Language: C++
+- Programming Language: Python
 - IDE: Visual Studio Code 
 - Platform: Terminal
 
