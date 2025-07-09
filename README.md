@@ -45,6 +45,5 @@ The user just needs to:
     python temperature_converter.py
     ```
 
----
 
-Let me know if you want further customization, or if you want this content formatted for a specific Python version or additional features (like requirements, etc.).
+
