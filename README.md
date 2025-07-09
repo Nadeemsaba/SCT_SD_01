@@ -1,7 +1,6 @@
 # SCT_SD_01
 A simple and interactive temperature conversion tool that handles conversions between Celsius, Fahrenheit, and Kelvin. Developed during my internship with SkillCraft Technology.
 
-
 # 🔥 Temperature Converter Program
 
 Welcome to the **Temperature Converter** – a simple project I completed as **Task 01** during my internship at **SkillCraft Technology**.  
@@ -38,16 +37,14 @@ The user just needs to:
 ## 🚀 How to Run
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/Nadeemsaba/SCT_SD_01.git
-   ```
-2. Compile the code:
-   ```
-   g++ temperature_converter.cpp -o temperature_converter
-   ```
-3. Run the program:
-   ```
-   ./temperature_converter
-   ```
+    ```
+    git clone https://github.com/Nadeemsaba/SCT_SD_01.git
+    ```
+2. Run the program:
+    ```
+    python temperature_converter.py
+    ```
 
+---
 
+Let me know if you want further customization, or if you want this content formatted for a specific Python version or additional features (like requirements, etc.).
