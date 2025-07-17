@@ -4,7 +4,7 @@ A simple and interactive temperature conversion tool that handles conversions be
 # 🔥 Temperature Converter Program
 
 Welcome to the **Temperature Converter** – a simple project I completed as **Task 01** during my internship at **SkillCraft Technology**.  
-This program lets users convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
+This program lets users convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**
 
 ---
 
